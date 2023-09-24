@@ -1,0 +1,12 @@
+.mainBackground{
+    direction: ltr;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #dcb173;
+    color: #000000;
+}
+
+.price{
+    font-weight: bold;
+    font-size: 20px;
+}

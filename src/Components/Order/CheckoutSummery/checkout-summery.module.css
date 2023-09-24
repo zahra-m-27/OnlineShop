@@ -1,0 +1,9 @@
+.main{
+    direction: ltr;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}

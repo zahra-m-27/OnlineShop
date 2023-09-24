@@ -1,0 +1,8 @@
+.invalid{
+    border: 1px solid red !important;
+    background-color: #f9d4d4 !important;
+}
+
+.main{
+    direction: ltr;
+}
