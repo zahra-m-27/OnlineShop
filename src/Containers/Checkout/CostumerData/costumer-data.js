@@ -112,6 +112,7 @@ class CostumerData extends Component {
             console.log(err);
             this.setState({loading: false})
         })
+        alert('Your order has been recorded successfully!');
     }
 
     inputChangeHandler = (event, inputId) => {
