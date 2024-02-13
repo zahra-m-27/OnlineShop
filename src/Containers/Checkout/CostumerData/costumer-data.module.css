@@ -4,4 +4,10 @@
 
 .main{
     margin-top: 50px;
+    direction: ltr;
+}
+@media screen and (max-width: 767px){
+    .main{
+        width: 90%;
+    }
 }
