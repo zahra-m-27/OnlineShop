@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/OnlineShop/static/css/main.76564667.css",
+    "main.css": "/OnlineShop/static/css/main.44382fc4.css",
     "main.js": "/OnlineShop/static/js/main.6fc0fe07.js",
     "static/js/592.c474ce45.chunk.js": "/OnlineShop/static/js/592.c474ce45.chunk.js",
     "static/media/SiteLogo.png": "/OnlineShop/static/media/SiteLogo.f90398a42613abfec380.png",
@@ -10,12 +10,12 @@
     "static/media/glyphicons-halflings-regular.eot": "/OnlineShop/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
     "static/media/glyphicons-halflings-regular.woff2": "/OnlineShop/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "index.html": "/OnlineShop/index.html",
-    "main.76564667.css.map": "/OnlineShop/static/css/main.76564667.css.map",
+    "main.44382fc4.css.map": "/OnlineShop/static/css/main.44382fc4.css.map",
     "main.6fc0fe07.js.map": "/OnlineShop/static/js/main.6fc0fe07.js.map",
     "592.c474ce45.chunk.js.map": "/OnlineShop/static/js/592.c474ce45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76564667.css",
+    "static/css/main.44382fc4.css",
     "static/js/main.6fc0fe07.js"
   ]
 }
